@@ -1,4 +1,4 @@
-# Install Postman on Ubuntu
+# Install Postman on Elementary OS
 
 1. Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)
 2. Run the following commands
