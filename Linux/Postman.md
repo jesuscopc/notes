@@ -18,8 +18,8 @@ sudo nano /usr/share/applications/postman.desktop
 [Desktop Entry]
 Type=Application
 Name=Postman
-Icon=/opt/apps/Postman/app/resources/app/assets/icon.png
-Exec="/opt/apps/Postman/Postman"
+Icon=/opt/apps/app/resources/app/assets/icon.png
+Exec="/opt/apps/Postman"
 Comment=Postman Desktop App
 Categories=Development;Code;
 ```
