@@ -7,7 +7,7 @@
   tar -xzf Postman-linux-x64-7.32.0.tar.gz
   sudo mkdir -p /opt/apps/
   sudo mv Postman /opt/apps/
-  sudo ln -s /opt/apps/Postman/Postman /usr/local/bin/postman
+  sudo ln -s /opt/apps/Postman /usr/local/bin/postman
   postman
   ```
 3. Create a desktop shortcut
