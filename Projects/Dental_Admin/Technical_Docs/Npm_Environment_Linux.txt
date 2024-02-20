@@ -1,0 +1,19 @@
+* INSTALLATION NVM (NODE VERSION MANAGER) *
+Official docs: https://github.com/nvm-sh/nvm#installing-and-updating
+--------------------------------------------------------------------
+
+* DENTAL ADMIN UI CONFIG *
+
+- Inside project run.
+nvm use
+nvm install
+npm i
+
+- Add host dentaladmin.com.mx.
+sudo nano /etc/hosts
+
+- Al final del archivo Añadir y guardar.
+127.0.0.1 dev.dentaladmin.com.mx
+
+- Finally lift the project.
+npm run start
