@@ -2,13 +2,13 @@
 
 Hoy
 
-* 🔴 Email expired_fifteen
+* ~~🔴 Email expired_fifteen~~
 * ~~🔴 Buscar aplicación de sismo México~~
-* 🔴 Hacer todo list de cosas que quiero que haga don Pablo
-* 🔴 Hacer lista de despensa
-* 🔴 Email expired_four
-* 🔴 Email expired_fourteen
-* 🔴 Email expired_fourteen_mp
+* ~~🔴 Hacer todo list de cosas que quiero que haga don Pablo~~
+* ~~🔴 Hacer lista de despensa+~~
+* ~~🔴 Email expired_fourteen~~
+* ~~🔴 Email expired_four~~
+* ~~🔴 Email expired_fourteen_mp~~
 * 🔴 Email expired_nine
 * 🔴 Email expired_nine_mp
 * 🔴 Empezar análisis de pantalla de freno, anotar los casos de uso y listar en doc iniciativa.
