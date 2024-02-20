@@ -26,8 +26,14 @@ Mañana
 * 🔴 Cancelar Telmex Internet
 * 🔵 Buscar 5 libros técnicos que quiero leer u descargarlos de la página maestra
 
+Algun Dia
+
 * 🔵 Ir a convertir 1 VHS película.
 * 🔵 Do Date to phymart my right leg for the next week
 * 🔵 Comprar set sacar uña encarnada
 
+Completadas
+
 * 🔴 ~~Crear Tarea en Jira para los emails~~
+
+---
