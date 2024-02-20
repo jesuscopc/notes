@@ -2,7 +2,7 @@
 
 Hoy
 
-* ~~🔴 Email expired_fifteen~~
+* 🔴 Email expired_fifteen
 * ~~🔴 Buscar aplicación de sismo México~~
 * 🔴 Hacer todo list de cosas que quiero que haga don Pablo
 * 🔴 Hacer lista de despensa
