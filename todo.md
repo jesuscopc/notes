@@ -2,6 +2,14 @@
 
 Hoy
 
+* ~~🔴 Buscar aplicación de sismo México~~
+* 🔴 Hacer todo list de cosas que quiero que haga don Pablo
+* 🔴 Hacer lista de despensa
+* 🔴 Email expired_fifteen
+* 🔴 Email expired_four
+* 🔴 Email expired_four
+* 🔴 Email expired_fourteen
+* 🔴 Email expired_fourteen_mp
 * 🔴 Email expired_nine
 * 🔴 Email expired_nine_mp
 * 🔴 Email expired_ninety
@@ -10,8 +18,16 @@ Hoy
 * 🔴 Email expired_ten_mp
 * 🔴 Email expired_thirty
 * 🔴 Email expired_thirty_mp
+* 🔴 Email expired_twenty_four
+* 🔴 Email expired_twenty_four_mp
+* 🔴 Email expired_two
+* 🔴 Email expired_two_mp
 * 🔴 Empezar análisis de pantalla de freno, anotar los casos de uso y listar en doc iniciativa.
 * 🔴 Pagar Internet Telmex
+* 🔴 Ir por paquete Mercadolibre
+
+Mañana
+
 * 🔴 Cancelar Telmex Internet
 
 Mañana
