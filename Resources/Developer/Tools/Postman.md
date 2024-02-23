@@ -2,11 +2,14 @@
 
 ## Install Postman On Elementary OS
 
-> [!tip] Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)
-> 
+## Descargar Postman
 
-> [!tip] Unzip and move to opt 
-```shell
+> [!NOTE]
+> Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)
+
+## Descomprimir Postman
+
+```sh
 tar -xzf Postman-linux-x64-7.32.0.tar.gz
 sudo mkdir -p /opt/apps/
 sudo mv Postman /opt/apps/
@@ -14,8 +17,9 @@ sudo ln -s /opt/apps/Postman/Postman /usr/local/bin/postman
 postman
 ```
 
-> [!tip] Create a desktop shortcut
-```shell
+> [!TIP] Crear acceso desde el desktop
+
+```sh
 # Run
 sudo nano /usr/share/applications/postman.desktop
 # Paste this code
@@ -28,7 +32,7 @@ Comment=Postman Desktop App
 Categories=Development;Code;
 ```
 
-## Remove postman from Linux
+## Desinstalar Postman
 
 ```shell
 sudo rm -rf /opt/apps/Postman && rm /usr/local/bin/postman

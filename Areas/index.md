@@ -1,4 +1,4 @@
 # Areas
 
-[Inversiones](Financial/index.md)
-[Personal](Personal/index.md)
+* [Inversiones](Finanzas/Finanzas.md)
+* [Personal](Personal/Personal.md)
