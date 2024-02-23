@@ -1,6 +1,6 @@
 #book #David-Deida
 
-> [!Note]Título Nota
+> [!Note]
 > Cada mujer tiene una temperatura que puede aliviarte o irritarte Actualmente, la energía oscura de lo masculino está ta reprimida, que el hombre común prefiere pegar una sonrisa sobre su cara aburrida, que penetrar la tensión de su mujer con un amor desinhibida. Y tiene el mismo cuidado de no alterar su propia vida cómoda.
 
 > [!Note]
