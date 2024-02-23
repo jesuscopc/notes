@@ -1,3 +1,3 @@
 # Index Dental Admin
 
-[Npm ENvironment ELementary OS](Technical_Docs/Npm%20Environment.md)
+[Npm ENvironment ELementary OS](Technical_Docs/Npm_Environment.md)

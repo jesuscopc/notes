@@ -1,12 +1,13 @@
 # Npm ENvironment ELementary OS
 
-> NVM ( NODE VERSION MANAGER) Installation [Official docs](https://github.com/nvm-sh/nvm#installing-and-updating)
+> [!NOTE]
+NVM ( NODE VERSION MANAGER) Installation [Official docs](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-## DENTAL ADMIN UI CONFIG
+## Dental Admin UI Config
 
 * Inside project run
 
-```bash
+```sh
 nvm use
 nvm install
 npm i
@@ -14,7 +15,7 @@ npm i
 
 * Add host `dentaladmin.com.mx`
 
-```bash
+```sh
 sudo nano /etc/hosts
 # Add domain
 127.0.0.1 dev.dentaladmin.com.mx
@@ -22,6 +23,6 @@ sudo nano /etc/hosts
 
 * Finally up the project.
 
-```bash
+```sh
 npm run start
 ```
