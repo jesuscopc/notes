@@ -1,5 +1,3 @@
-# Postman
-
 ## Install Postman On Elementary OS
 
 > [!tip] Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)

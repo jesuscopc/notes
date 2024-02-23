@@ -1,3 +1,3 @@
 # Index Projects
 
-[Dental Admin](./Dental_Admin/index.md)
+[React Typescript For Production](@COURSE:%20React%20For%20Production.md)

@@ -1,3 +1,3 @@
 # Index Dental Admin
 
-[Npm EnvironmeEnvironment\*\*%20Linux.txt)
+[Npm ENvironment ELementary OS](Technical_Docs/Npm%20Environment.md)

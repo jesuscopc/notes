@@ -1,4 +1,4 @@
-# Create shortcuts for git commands
+# Git Alias
 
 ```bash
 git config --global alias.s status &&
