@@ -1,7 +1,5 @@
-# Npm Environment Elementary OS
-
 > [!tip] Node Version Manager
-NVM ( NODE VERSION MANAGER) Installation [Official docs](https://github.com/nvm-sh/nvm#installing-and-updating)
+Nvm [Official docs](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ## Dental Admin UI Config
 
@@ -23,6 +21,6 @@ sudo nano /etc/hosts
 
 * Finally up the project.
 
-```sh
+```shell
 npm run start
 ```

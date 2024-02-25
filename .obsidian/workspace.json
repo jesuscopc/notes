@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "file": "Projects/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "file": "Projects/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "file": "Projects/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md"
+                "file": "Projects/index.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "6e0f18412360efbd",
   "lastOpenFiles": [
+    "Projects/Video games.md",
     "Projects/index.md",
+    "Resources/index.md",
+    "Projects/Dental_Admin/Technical_Docs/Npm Environment.md",
+    "README.md",
     "Projects/Salidas/San_Jose_Del_Pacifico.md",
     "Projects/Salidas/Los_Cabos.md",
     "Projects/Courses/Flutter_From_Zero_To_Hero.md",
-    "README.md",
-    "Resources/Developer/Tools/Postman.md",
-    "Resources/index.md"
+    "Resources/Developer/Tools/Postman.md"
   ]
 }

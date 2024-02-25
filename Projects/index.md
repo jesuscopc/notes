@@ -14,8 +14,8 @@
 ## Dental Admin
 
 * Technical Docs
-  * [Npm ENvironment ELementary OS](Dental_Admin/Technical_Docs/Npm_Environment.md)
+  * [Npm ENvironment ELementary OS](Npm%20Environment.md)
 
 ## Videogames
 
-* [Videogames 2024](Videogames.md)
+* [Videogames 2024](Video%20games.md)

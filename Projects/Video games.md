@@ -1,4 +1,4 @@
-# Videogames 2024
+# Video games 2024
 
 * ~~[x] Naruto Shippuden Ninja Storm 3~~
 * ~~[x] Naruto Shippuden Ninja Storm 4~~
