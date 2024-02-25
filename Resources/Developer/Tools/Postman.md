@@ -17,7 +17,8 @@ sudo ln -s /opt/apps/Postman/Postman /usr/local/bin/postman
 postman
 ```
 
-> [!TIP] Crear acceso desde el desktop
+> [!TIP]
+> Crear acceso desde el desktop
 
 ```sh
 # Run
