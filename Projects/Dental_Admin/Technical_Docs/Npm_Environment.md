@@ -7,7 +7,7 @@ NVM ( NODE VERSION MANAGER) Installation [Official docs](https://github.com/nvm-
 
 * Inside project run
 
-```sh
+```shell
 nvm use
 nvm install
 npm i
@@ -15,7 +15,7 @@ npm i
 
 * Add host `dentaladmin.com.mx`
 
-```sh
+```shell
 sudo nano /etc/hosts
 # Add domain
 127.0.0.1 dev.dentaladmin.com.mx

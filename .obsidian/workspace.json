@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "a2ed435378e9ef5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "11904925b1f97f1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e0f18412360efbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a781fef960c021d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed43e97a153711ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "702bced2f0308afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d4b367009a85693",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cd44790df79dd77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b892549c49eaf1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4723c1b886af0c28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e6c5011c892fae0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6bf6720515ccb5d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f253f52ca05cf0ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce002c6601d37a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Dental_Admin/Technical_Docs/Npm_Environment.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e0f18412360efbd",
+  "lastOpenFiles": [
+    "Projects/index.md",
+    "Projects/Salidas/San_Jose_Del_Pacifico.md",
+    "Projects/Salidas/Los_Cabos.md",
+    "Projects/Courses/Flutter_From_Zero_To_Hero.md",
+    "README.md",
+    "Resources/Developer/Tools/Postman.md",
+    "Resources/index.md"
+  ]
+}

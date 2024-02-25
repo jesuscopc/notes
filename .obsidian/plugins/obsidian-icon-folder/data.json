@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasFolder",
+      "FasFolderTree",
+      "FabMarkdown"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "README.md": {
+    "iconName": "FabMarkdown",
+    "iconColor": "#b5f08e"
+  },
+  "Resources": {
+    "iconName": "FasFolder",
+    "iconColor": "#7cee99"
+  },
+  "Projects": {
+    "iconName": "FasFolder",
+    "iconColor": "#86c6ee"
+  },
+  "Areas": {
+    "iconName": "FasFolder",
+    "iconColor": "#ff9999"
+  },
+  "Archive": {
+    "iconName": "FasFolder",
+    "iconColor": "#ffd79e"
+  }
+}
