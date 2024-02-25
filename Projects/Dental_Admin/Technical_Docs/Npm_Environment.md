@@ -1,6 +1,6 @@
-# Npm ENvironment ELementary OS
+# Npm Environment Elementary OS
 
-> [!NOTE]
+> [!tip] Node Version Manager
 NVM ( NODE VERSION MANAGER) Installation [Official docs](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 ## Dental Admin UI Config

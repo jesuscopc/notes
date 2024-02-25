@@ -4,8 +4,8 @@
 
 ## Descargar Postman
 
-> [!NOTE]
-> Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)
+> [!NOTE] Download postman linux file tar.gz from [here](https://www.postman.com/downloads/)
+> 
 
 ## Descomprimir Postman
 
@@ -17,8 +17,7 @@ sudo ln -s /opt/apps/Postman/Postman /usr/local/bin/postman
 postman
 ```
 
-> [!TIP]
-> Crear acceso desde el desktop
+> [!TIP] Crear acceso desde el desktop
 
 ```sh
 # Run
